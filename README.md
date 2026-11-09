@@ -17,3 +17,4 @@ into a running process by name, then executes it via `CreateRemoteThread`.
 ```
 program.exe <shellcode.bin> <TargetProcess.exe>
 ```
+<img width="2074" height="1173" alt="image" src="https://github.com/user-attachments/assets/4e641b80-bd65-426e-8b45-400e8f08b7e3" />
